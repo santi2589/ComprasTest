@@ -1,0 +1,6 @@
+'Payment.user_status' : ["active"]
+'Payment.cart' : ["true", "false"]
+'Payment.operation_type' : ["regular_payment"]
+'Payment.buy_equals_pay' : ["true", "false"]
+'Payment.payment_status' : ["approved_accredited", "cancelled_by_admin", "cancelled_by_collector", "cancelled_by_payer", "cancelled_expired", "inMediation_pending", "in_process_pending_contingency", "in_process_pending_review_manual", "rejected_cc__bad_filled_card_number", "rejected_cc__bad_filled_security_code", "rejected_cc__bad_filled_exp_date", "rejected_cc__bad_filled_other", "rejected_cc_blacklist", "rejected_cc_call_for_auth", "rejected_cc_fraud", "rejected_cc_high_risk", "rejected_cc_invallid_installments", "rejected_cc_max_attemps", "rejected_cc_other_reason", "rejectedCollector_unavailable", "rejected_payer_unavailable", "refunded_bpp_applied", "refunded_bpp_covered", "refunded_bpp_refunded", "refunded_refunded"]
+'Payment.site' : ["MLM"]

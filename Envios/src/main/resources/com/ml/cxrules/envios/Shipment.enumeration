@@ -1,0 +1,8 @@
+'Shipment.user_status' : ["active"]
+'Shipment.cart' : ["true", "false"]
+'Shipment.operation_type' : ["regular_payment"]
+'Shipment.buy_equals_pay' : ["true", "false"]
+'Shipment.me' : ["true", "false"]
+'Shipment.shipping_status' : ["handling", "ready_to_ship_ready_to_print", "ready_to_ship_printed", "ready_to_ship_stale", "shipped", "delivered", "shipped_null", "shipped_others", "shipped_with_delay", "shipped_with_delay_limit", "pending", "pending_waiting_for_payment", "not_delivered"]
+'Shipment.open_claim' : ["true", "false"]
+'Shipment.site' : ["MLM"]
